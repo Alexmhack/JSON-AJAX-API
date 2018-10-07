@@ -80,19 +80,19 @@ Then in console use
 
 ```
 # command
-person.age
+person3.age
 # result
 19
 
 # command
-person.firstName
+person3.firstName
 # result
 "Alex"
 
 # command
-person.lastName
+person3.lastName
 # result
 "Hopper"
 ```
 
-The dot notation is used here to access the jSON objects in the ```person``` variable
+The dot notation is used here to access the jSON objects in the ```person3``` variable
