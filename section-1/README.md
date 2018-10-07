@@ -4,6 +4,7 @@
 
 Below is a javascript variable containing key and value pair
 
+**index.html**
 ```
 <script>
 	var person = {
@@ -64,10 +65,10 @@ objects.
 Now that we know how jSON format works we can use it to create and access more data from 
 jSON
 
-**index2.html**
+**index.html**
 ```
 <script>
-	var person = {
+	var person3 = {
 			"firstName": "Alex",
 			"lastName": "Hopper",
 			"age": 19
